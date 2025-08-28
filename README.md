@@ -1,15 +1,4 @@
-Perfect 👍 Let me rewrite your **README.md** from the beginning, including everything we discussed:
 
-* Problem ❌
-* Solution ✅
-* App Flow (with session delete + create new session)
-* Tech Stack (with Multer + Gemini + CSS)
-* Installation (with updated `.env`)
-* Deployment
-
-This will look professional, clear, and recruiter-friendly.
-
----
 
 # 📘 Interview Prep App
 
@@ -19,14 +8,14 @@ This app is designed for **users of all experience levels** — from **freshers*
 
 ---
 
-## ❌ The Problem with Traditional Prep
+ The Challenge in Interview Preparation
 
 Preparing for interviews today is often:
 
 * 🔍 **Scattered** – Candidates jump between multiple websites, blogs, and videos to find questions.
 * ⏳ **Time-Consuming** – Wasting hours searching instead of practicing.
 * 🎯 **Unfocused** – No personalization based on the candidate’s target role or years of experience.
-* 📖 **Surface-Level Learning** – Even if questions are found, detailed explanations are often missing.
+* 📖 **Surface-Level Learning** – Even if questions are found, detailed explanations are often not there.
 
 👉 As a result, candidates feel **overwhelmed and underprepared**, especially when they need **structured guidance**.
 
