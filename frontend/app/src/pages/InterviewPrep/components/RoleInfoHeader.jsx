@@ -12,7 +12,7 @@ const RoleInfoHeader = ({
     return (
 
         <div className="bg-white relative overflow-hidden">
-            <div className="container mx-auto px-10 md:px-0">
+            <div className="container mx-auto max-w-7xl px-4 md:px-0">
                 <div className="h-[200px] flex flex-col justify-center relative z-10">
                     <div className="flex items-center">
                         <div className="flex-grow">
