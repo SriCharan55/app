@@ -129,26 +129,8 @@ npm start
 
 ## 🚀 Deployment
 
-* **Frontend (Vercel):** \[your-vercel-link]
-* **Backend (Render):** \[your-render-link]
+* **Frontend (Vercel):** \[https://app-mu-cyan-35.vercel.app]
+* **Backend (Render):** \[https://app-aie4.onrender.com]
 
 ---
 
-## 📌 Future Improvements
-
-* 🗓️ Mock interview scheduling with feedback
-* 💻 Integrated coding editor with test cases
-* 🧠 Smarter AI recommendations for weak areas
-* 📊 Analytics dashboard to track preparation progress
-
----
-
-## 👨‍💻 Author
-
-* **Your Name** – [LinkedIn](your-linkedin) | [GitHub](your-github)
-
----
-
-✅ Now your README clearly explains **the problem, solution, flow, stack, setup, and deployment** in a way that impresses recruiters and devs.
-
-Do you also want me to **add a small ASCII-style architecture diagram** (Frontend → Backend → DB → Gemini AI) so the flow is visually clear in the README?
