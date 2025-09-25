@@ -129,7 +129,7 @@ npm start
 
 ## 🚀 Deployment
 
-* \** (Vercel):** \[https://app-git-main-sri-charans-projects-775b067f.vercel.app/]
+**Vercel:** (https://app-git-main-sri-charans-projects-775b067f.vercel.app/)
 
 
 ---
