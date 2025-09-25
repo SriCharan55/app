@@ -129,8 +129,8 @@ npm start
 
 ## 🚀 Deployment
 
-* **Frontend (Vercel):** \[https://app-mu-cyan-35.vercel.app]
-* **Backend (Render):** \[https://app-aie4.onrender.com]
+* ** (Vercel):** \[https://app-git-main-sri-charans-projects-775b067f.vercel.app/]
+
 
 ---
 
